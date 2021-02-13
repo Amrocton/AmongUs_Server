@@ -1,0 +1,12 @@
+{
+    "token": "ODEwMDUzMDU2NTE1MDE0Njg3.YCeCsg.1u2EAdBESR05QIpte_ATZSz9PnE",
+    "prefix": "a.",
+    "botProxyEnabled": false,
+    "botProxyAddress": "",
+    "botProxyUsername": "",
+    "botProxyPassword": "",
+    
+    "extraSecondsOfTalkAfterMeeting": 10,
+    "deadСanTalkDuringTasks": true,
+    "removeCommands" : false
+}
